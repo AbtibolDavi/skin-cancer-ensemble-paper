@@ -16,7 +16,7 @@ Skin cancer, affecting over 1.5 million in 2022, poses a significant public heal
 
 ### Prerequisites
 
-*   Python 3.8+
+*   Python 3.12.1
 *   PyTorch
 *   CUDA
 
