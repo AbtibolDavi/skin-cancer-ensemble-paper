@@ -40,7 +40,7 @@ Skin cancer, affecting over 1.5 million in 2022, poses a significant public heal
     Download the HAM10000 dataset from the Harvard Dataverse:
     - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
 
-5. **Place it in the `data/` directory**
+5. **Place the dataset inside the `data/` directory**
 
 ## Usage
 
