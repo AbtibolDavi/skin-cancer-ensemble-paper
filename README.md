@@ -6,7 +6,7 @@ This repository contains the source code for the paper: **"Skin Cancer Detection
 
 **Authors:** Davi Israel Abtibol Carvalho, Fábio Cavalcante Binatti, Marly. G. F. Costa, Cícero F.F. Costa Filho
 
-[//]: <> (**[Link to the Paper will be here]**)
+DOI: **https://doi.org/10.1109/SIPAIM67325.2025.11283391**
 
 ## Abstract
 
@@ -37,7 +37,10 @@ Skin cancer, affecting over 1.5 million in 2022, poses a significant public heal
     pip install -r requirements.txt
     ```
 4.  **Download the Dataset:**
-    Download the HAM10000 dataset from a source like the Harvard Dataverse and place it in the `data/` directory.
+    Download the HAM10000 dataset from the Harvard Dataverse:
+    - https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T
+
+5. **Place it in the `data/` directory**
 
 ## Usage
 
@@ -74,14 +77,18 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 This research was funded by Samsung Electronics of Amazonia Ltda., under the terms of Federal Law n°8.387/1991, agreement 001/2020, signed with UFAM/FAEPI, Brazil.
 
-[//]: <> (## Citation)
+## Citation
 
-[//]: <> (If you use this code in your research, please cite our paper:)
+If you use this code in your research, please cite our paper:
 
-[//]: <> (```bibtex
-@inproceedings{your_paper_citation,
-  title={Skin Cancer Detection Using Convolutional Networks and Vision Transformers},
-  author={Carvalho, Davi Israel Abtibol and Binatti, Fábio Cavalcante and Costa, Marly. G. F. and Costa Filho, Cícero F.F.},
-  year={2024}
-})
-
+```bibtex
+@INPROCEEDINGS{11283391,
+  author={Carvalho, Davi Israel Abtibol and Cavalcante Binatti, Fábio and Costa, Marly. G. F. and Filho, Cícero F.F. Costa},
+  booktitle={2025 21st International Symposium on Biomedical Image Processing and Analysis (SIPAIM)}, 
+  title={Skin Cancer Detection Using Convolutional Networks and Vision Transformers}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-5},
+  keywords={Deep learning;Solid modeling;Computer vision;Visualization;Accuracy;Computational modeling;Transformers;Skin;Lesions;Skin cancer;skin cancer detection;ensemble methods;machine learning;CNNs;ViTs;binary classification},
+  doi={10.1109/SIPAIM67325.2025.11283391}}
